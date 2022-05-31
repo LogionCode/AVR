@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Debug\Z3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Z3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Z3.map</FILE>
+  <FILE>Z3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</FILE><LINE>32</LINE></main>
+  <op0><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</FILE><LINE>104</LINE></op0>
+  <op1><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</FILE><LINE>106</LINE></op1>
+  <loop><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</FILE><LINE>62</LINE></loop>
+  <L1><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</FILE><LINE>65</LINE></L1>
+  <nega><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</FILE><LINE>82</LINE></nega>
+  <L2><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z3\Z3.asm</FILE><LINE>75</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Z1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Debug\Z1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Z1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Z1.map</FILE>
+  <FILE>Z1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Z1.asm</FILE><LINE>28</LINE></main>
+  <oposite><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Z1.asm</FILE><LINE>78</LINE></oposite>
+  <loop><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Z1.asm</FILE><LINE>57</LINE></loop>
+  <delay><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Z1.asm</FILE><LINE>66</LINE></delay>
+  <L1><FILE>C:\Users\Student_PL\Desktop\Publikacja w terminie CW_4\Publikacja w terminie CW#4\Na zajêcia CW#4 student\95481\Z1\Z1.asm</FILE><LINE>70</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
